@@ -1,1 +1,1 @@
-# ZZT
+print("hello world")
